@@ -3,8 +3,8 @@ content-type: application/json
 authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpvaG5AZ29vZ2xlLmNvbSIsImV4cCI6MTcyMTA3MTk1NSwidXNlcklkIjozfQ.QpRTdiLjtD1agql34IIHQZrGZyO2IVp7PZA0AOKe-v0
 
 {
-  "name": "Test event john 5",
-  "description": "A test event 5",
-  "location": "A test location 5",
+  "name": "Test event john 6",
+  "description": "A test event 6",
+  "location": "A test location 6",
   "dateTime": "2025-01-01T16:50:00.000Z"
 }
